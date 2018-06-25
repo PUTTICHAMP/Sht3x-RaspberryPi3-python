@@ -1,0 +1,1 @@
+# Sht3x-RaspberryPi3-python
